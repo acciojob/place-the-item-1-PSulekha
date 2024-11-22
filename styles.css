@@ -1,2 +1,26 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0;
+	padding:0;
+	
+}
+.container{
+	display:flex;
+	justify-content:space-between;
+}
+.one{
+	width:15vw;
+	height:15vh;;
+	background-color:red;
+}
+.three{
+	width:15vw;
+	height:15vh;;
+	background-color:green;
+}
+.two{
+	width:15vw;
+	height:15vh;;
+	background-color:blue;
+}
